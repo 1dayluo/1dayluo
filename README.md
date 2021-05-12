@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱  一枚渣渣～ 且喜欢可爱的存在！
+- Language:python,javascript,C,PHP
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1dayluo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **1dayluo/1dayluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
