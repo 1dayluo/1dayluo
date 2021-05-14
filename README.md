@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱  一枚渣渣～ 且喜欢可爱的存在！
-- 
+- 🍉 blog:https://1dayluo.github.io/
 #### 💬 About
 - Language:
   - python
