@@ -9,7 +9,7 @@
 - Current Learning： Solidity/Java
 
 #### 🤔 Github Stats
-![](http://ww3.sinaimg.cn/bmiddle/6af89bc8gw1f8svnhf7owj205i05i3yg.jpg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1dayluo)](https://github.com/anuraghazra/github-readme-stats)     
 
 #### ⚡ Other
