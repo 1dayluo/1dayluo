@@ -8,9 +8,15 @@
   - python/NodeJS/PHP/GO/Ruby/Shell/C
 - Current Learning： Solidity/Java
 
+
 #### 🤔 Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1dayluo)](https://github.com/anuraghazra/github-readme-stats)     
+
+#### :octocat: HTB&THM
+![](https://raw.githubusercontent.com/1dayluo/1dayluo/master/assets/thm_propic.png)
+![](https://www.hackthebox.com/badge/image/476669)
+
 
 #### ⚡ Other
 - Game： Minecraft/Touhou/Steam/Galgame
