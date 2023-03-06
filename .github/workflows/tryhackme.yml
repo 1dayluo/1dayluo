@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: fuyaol/tryhackme-badge-workflow@main
+      - uses: 1dayluo/tryhackme@main
         with:
           username: "fuyaol"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
